@@ -1,0 +1,9 @@
+*.suo
+*.sdf
+*.ipch
+*.obj
+*.exe
+Debug\
+x64\
+x86\
+Release\
